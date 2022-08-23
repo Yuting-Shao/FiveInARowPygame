@@ -1,0 +1,13 @@
+{"restart_game": "yes",
+"remember_me": "yes",
+"player_number": 1,
+"manual": "no",
+"human_player": "black",
+"restart_file": "restart.txt",
+"restart_manual_file": "restart_manual_file.txt",
+"board_fill_color": [144,238,144],
+"board_line_color": [165,42,42],
+"screen_size": 640,
+"line_numbers": 15,
+"piece_size": 15
+}
