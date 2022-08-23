@@ -1,11 +1,11 @@
 # FiveInARowPygame
 **Author:** Yuting Shao
 
-The Tic-Tac-Toe game was designed and implemented using the pygame.
+The Five In A Row game was designed and implemented using the pygame.
 
 ## Software to run the project
 
-python3, pygame, time, json, sys,  unittest
+python3; required libraries: pygame, time, json, sys,  unittest
 
 ## How to start the game
 
